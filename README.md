@@ -12,3 +12,5 @@ All users must be login to system to carry out appropriate management activities
 At the moment, a program for managing dealers is required to develop.
 Program model is proposed:
 User → Login → Managing dealers (ACC-1)/Managing deliveries (ACC-2 → developed afterward).
+
+User ID and Password for managing dealers (ACC-1) is E002 - 23456789
