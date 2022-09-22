@@ -6,6 +6,7 @@ security. Roles in the firm include:
 - (2) ACC-1: Managing dealers.
 - (3) ACC-2: Managing deliveries notes.
 - Data files are supported as DealerManagerProjectUI/DealerData
+
 File related to the program can be setup flexibly through the file config.txt.
 All users must be login to system to carry out appropriate management activities based on his/her role.
 At the moment, a program for managing dealers is required to develop.
