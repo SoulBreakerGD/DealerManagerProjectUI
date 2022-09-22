@@ -1,0 +1,8 @@
+D006,Thu,17 street F,84789123456,true
+D002,Levine,123 street B,098498151,true
+D003,Hellen,32 street C,08123456789,false
+D008,Taki,62 street Z,09086756211,true
+D005,Minh,6 street E,86167823459,false
+D007,Hue,34 street Q,123456789,true
+D004,Adelle,43 street D,87123456789,true
+D001,Adam,432 street A,123456789,false
