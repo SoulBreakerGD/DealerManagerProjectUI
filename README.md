@@ -12,5 +12,4 @@ All users must be login to system to carry out appropriate management activities
 At the moment, a program for managing dealers is required to develop.
 Program model is proposed:
 User → Login → Managing dealers (role: ACC-1)
-
              → Managing deliveries (role: ACC-2) – developed afterward.
