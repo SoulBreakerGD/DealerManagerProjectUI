@@ -15,7 +15,7 @@ public class Program
             LogIn login = new LogIn();
             login.initApp();
         }
-        else 
+        else
         {
             JFrameUI jframe = new JFrameUI();
             jframe.initUI();
